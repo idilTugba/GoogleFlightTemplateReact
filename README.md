@@ -1,5 +1,7 @@
 # Flight Search App
 
+🎥 [YouTube Video Demo](https://youtu.be/_SvhpPTbysA)
+
 ## Overview
 
 This is a simple flight search application built with **React, TypeScript, and React Query**. The app allows users to search for flights by selecting their departure and destination airports along with a travel date. It fetches flight data from the **Sky-Scrapper API**.
